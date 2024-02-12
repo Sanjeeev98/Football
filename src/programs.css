@@ -1,0 +1,43 @@
+.linear {
+    background: linear-gradient(180deg,#004D98,white, #A50044);
+
+    -webkit-background-clip: text;
+    color: transparent;
+  
+}
+.programscon{
+    /* background-color: black;s */
+}
+.proh1{
+    font-size: 65px;
+    font-weight: 400;
+    font-family: "proxima-nova";
+    font-style: italic;
+    letter-spacing: 3px;
+    text-transform: lowercase;
+}
+.proh3{
+    font-size: 35px;
+    color:rgba(194, 99, 55, 0.952) ;
+    
+}
+.prop{
+    font-size: 20px;
+    color: black;
+    line-height: 35px;
+}
+.bgblack{
+    background-color: black;
+}
+.bgblack h5{
+    font-size: 22px;
+    color: white;
+    line-height: 35px;
+}
+
+@media (max-width: 780px) {
+
+    .proh1{
+       font-size: 45px;
+    }
+       }

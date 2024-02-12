@@ -1,0 +1,43 @@
+.seventhcon h3{
+    font-family: "proxima-nova";
+    font-style: italic;
+    letter-spacing: 3px;
+    color: #343434;
+    font-size: 40px;
+    text-transform: lowercase;
+    font-weight: 400;
+}
+.seventhcon h1{
+    font-size: 50px;
+    color:rgba(194, 99, 55, 0.952) ;
+    font-weight: 400;
+}
+
+.seventhcon p{
+ font-size: 22px;
+}
+.about2{
+ background-color: black;
+}
+.about2 h1{
+    color: white;
+    font-size: 60px;
+    font-style: italic;
+}
+.about2 .btn1{
+    border: 1px solid white;
+    color: white;
+   
+  
+  }
+.about2 .btn1:hover{
+    background-color:white ;
+    color: black;
+  }
+
+  @media (max-width: 780px) {
+
+ .seventhcon h1{
+    font-size: 45px;
+ }
+    }

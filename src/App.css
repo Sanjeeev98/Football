@@ -36,6 +36,7 @@ color: rgba(194, 99, 55, 0.952);
   color: #fff;
   text-align: center;
   height: 650px;
+    font-style: italic;
 }
 
 .button1 .btn1{
@@ -49,10 +50,14 @@ color: rgba(194, 99, 55, 0.952);
   color: white;
 }
 .button1 .para1{
-  font-size: 45px;
+  font-size: 50px;
   color:rgba(194, 99, 55, 0.952) ;
-  font-family: "Montserrat",sans-serif;
   font-weight: 400;
+  font-family: "proxima-nova";
+  font-style: italic;
+  letter-spacing: 3px;
+  text-transform: lowercase;
+
 }
 
 .button1 .para2{
